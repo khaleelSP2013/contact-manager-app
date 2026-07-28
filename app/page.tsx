@@ -1,10 +1,11 @@
 import Image from "next/image";
+import LoginForm from "./_components/LoginForm";
 
 export default function Home() {
   return (
     <div className="flex flex-col items-center">
       <div className="text-center">
-        <h1 className="text-4xl font-bold">Welcome to Contact Manager</h1>
+        <h1 className="text-2xl font-bold">Welcome to Contact Manager</h1>
 
         <p className="mt-2 text-lg text-gray-600">
           Manage your contacts easily and efficiently
@@ -16,10 +17,11 @@ export default function Home() {
         <Image
           src="/contact.png"
           alt="Contact Manager"
-          width={300}
+          width={200}
           height={300}
           className="rounded-lg shadow-lg"
         />
+        <LoginForm />
       </div>
 
       <div className="text-center mt-6">
