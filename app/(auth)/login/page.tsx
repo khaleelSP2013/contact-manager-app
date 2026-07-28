@@ -8,9 +8,9 @@ const LoginPage = () => {
       <h1 className="text-2xl font-bold md-6"> Log in</h1>
       <LoginForm />
       <p className="mt-4 text-center">Don't have an account ? </p>
-      <Link href="/register" className="text-blue-600 hover:underline">
+      {/* <Link href="/register" className="text-blue-600 hover:underline">
         Register
-      </Link>
+      </Link> */}
     </div>
   );
 };

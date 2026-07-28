@@ -26,9 +26,6 @@ const NavbarComponent = async () => {
               <Link href="/login" className="hover:text-blue-600 mr-5">
                 Login
               </Link>
-              <Link href="/register" className="hover:text-blue-600">
-                Register
-              </Link>
             </>
           )}
         </div>
