@@ -1,0 +1,60 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "john",
+      "email": "john@gmail.com",
+      "userID": "123456"
+    },
+    {
+      "name": "khaleel Update",
+      "email": "khaleel@gmail.com",
+      "userId": "1",
+      "id": "KYU0coT"
+    },
+    {
+      "name": "Zoha",
+      "email": "zoha@gmail.com",
+      "userId": "1",
+      "id": "-ly80aD"
+    },
+    {
+      "name": "farzana",
+      "email": "farzu@gmail.com",
+      "userId": "1",
+      "id": "KVNJH9E"
+    },
+    {
+      "name": "farzana",
+      "email": "farzu@gmail.com",
+      "userId": "1",
+      "id": "vDUQ9yg"
+    },
+    {
+      "name": "Ahmed",
+      "email": "ahmed@gmail.com",
+      "userId": "1",
+      "id": "7qm3K3Y"
+    },
+    {
+      "name": "Ajay Update",
+      "email": "ajay@gmai.com",
+      "userId": "2",
+      "id": "o9e3qL8"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "user1",
+      "email": "user1@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "2",
+      "name": "user2",
+      "email": "user2@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
